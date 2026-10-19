@@ -39,6 +39,6 @@ This is a Computer Network Security (CNS) mini project developed using Python. I
 
 ## Project Type
 Computer Network Security (CNS) Mini Project
-## Application Screenshot
+## Application Screenshots
 
 ![Secure File Encryption and Decryption System](Screenshot%202026-10-19%20210336.png)
